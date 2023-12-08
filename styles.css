@@ -1,0 +1,5 @@
+/* styles.css */
+.toc-columns {
+  columns: 2; /* 指定分成两列 */
+  column-gap: 20px; /* 列之间的间距 */
+}
